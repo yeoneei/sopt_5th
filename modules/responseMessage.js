@@ -24,4 +24,6 @@ module.exports = {
     POST_SAVE_FAILE:"게시글 저장 실패",
     POST_THUMB_SAVE_SUCCESS : "썸네일 저장 성공",
     POST_CONTENTS_SAVE_SUCCESS :"게시글 저장 성공",
+    POST_READ_FAILE:"게시글 읽어오기 실패",
+    POST_READ_SUCCESS : "게시글 읽어오기 성공",
 };
