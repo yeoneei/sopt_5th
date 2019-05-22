@@ -21,4 +21,7 @@ module.exports = {
     STUDENT_SELECT_FAIL: "학생 조회 실패",
 
     POST_SLECET_FAILE:"같은 제목이 존재 합니다.",
+    POST_SAVE_FAILE:"게시글 저장 실패",
+    POST_THUMB_SAVE_SUCCESS : "썸네일 저장 성공",
+    POST_CONTENTS_SAVE_SUCCESS :"게시글 저장 성공",
 };
